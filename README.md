@@ -3,6 +3,7 @@ Mern Stack code for the [Mern Tutorial](https://www.mongodb.com/languages/mern-s
 
 [![CI](https://github.com/mongodb-developer/mern-stack-example/actions/workflows/main.yaml/badge.svg)](https://github.com/mongodb-developer/mern-stack-example/actions/workflows/main.yaml)
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/mongodb-developer/render-mern-atlas-starter)
 
 
 ## How To Run
