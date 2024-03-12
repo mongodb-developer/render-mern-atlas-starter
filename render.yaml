@@ -5,6 +5,6 @@ services:
     buildCommand: cd mern/client && npm install && npm run build && mv dist ../server/public
     startCommand: cd mern/server && npm install && npm start
     envVars:
-      - key: MONGO_URI
-        value: YOUR_MONGODB_ATLAS_URI_HERE
+      - key: ATLAS_URI
+        sync: false
     healthCheckPath: /
