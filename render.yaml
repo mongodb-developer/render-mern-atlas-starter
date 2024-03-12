@@ -7,4 +7,5 @@ services:
     envVars:
       - key: ATLAS_URI
         sync: false
+        generateValue: false
     healthCheckPath: /
