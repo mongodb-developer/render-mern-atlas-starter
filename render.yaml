@@ -1,6 +1,5 @@
 services:
-  - type: web
-    name: mern-stack-example
+  - name: mern-stack-example
     env: node
     buildCommand: cd mern/client && npm install && npm run build && mv dist ../server/public
     startCommand: cd mern/server && npm install && npm start
